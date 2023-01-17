@@ -1,0 +1,32 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: rgb(207, 245, 185);
+    border: 1px solid gray;
+    border-radius: 2px;
+};
+
+.form label {
+  display: block;
+  margin-bottom: 16px;
+} 
+
+.form input {
+  display: block;
+  margin-bottom: 8px;
+  padding: 3px;
+} 
+
+.btn{
+    max-width: 100px;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #19470a;
+    box-shadow: rgba(181, 245, 62, 0.904) 0 3px 8px;
+}

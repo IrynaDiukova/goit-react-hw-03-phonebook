@@ -1,0 +1,11 @@
+.contactText{
+    font-style: oblique;
+    font-variant: initial;
+}
+.contactBtn{
+    margin: 4px 0px;
+    padding: 3px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rebeccapurple;
+    border-radius: 2px;
+}
